@@ -1,5 +1,7 @@
 node_modules/
+build/
 *.swp
+.gitignore
 
 # Elastic Beanstalk Files
 .elasticbeanstalk/*
