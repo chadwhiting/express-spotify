@@ -1,5 +1,6 @@
 node_modules/
 *.swp
+build/
 
 # Elastic Beanstalk Files
 .elasticbeanstalk/*
